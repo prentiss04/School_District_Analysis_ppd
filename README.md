@@ -7,13 +7,13 @@ The effect of removing of removing the Thomas HS 9th grade math and reading scor
 ## School summary implications
 With the Thomas HS 9th grade scores in question, their place in the school summary is completely different. Prior to the allegations of academic dishonesty, Thomas was one of the top performing schools. During the current investigation, all Thomas 9th graders’ scores are held as “non-grades”. As a result, the Thomas HS student body population (denominator) remains static, but roughly 25% of the school’s student body (numerator) has non-grades in both math and reading. As a result, through the lens of passing grades > 70 and everything else is non-passing, these Thomas 9th graders are categorized as non-passing. Some of those ninth graders had non-passing grades prior to the discovery, however, the temporary removal of 20-25% of the passing grades at Thomas HS has pushed the school’s standing to the bottom third in the rankings.  
 
-## Effects on Thomas High School's performance relative to other schools due to removal if ninth graders’ math and reading scores
+## Effects on Thomas High School's performance relative to other schools due to removal of ninth graders’ math and reading scores
 The removal of the Thomas 9th graders’ scores adversely affects the school’s ranking in the district. Prior to the academic integrity allegations, Thomas HS was a top ranked reading school in the district and 7th in math. With the new rankings that don’t consider the Thomas 9th graders, the schools ranking in reading drops to last (15th) and the math scores drop two spots to 9th. 
 The two subject matter tables are interesting and provide food for additional consideration. The reading passing percentage table has roughly half (8/15) schools scoring in the “A” range (>90%) and the balance (7/15) bunched around B-/C+ range. After the Thomas HS “scandal”, the bunching is virtually the same except there is one fewer “A” school (7/15), the same number of B-/C+ schools (7/15) and one “C-/D” school (Thomas HS). 
 The math reading passing % is similar to a degree. Roughly half (8/15) are “A” grade schools but the next bunching (7/15)  is solidly “D” schools. While Thomas didn’t drop too far in the rankings (7th to 9th) after the re-ranking, they migrated from the “A” group to the “D” group. 
 
 
-## Implications on of emoving the ninth-grade Math and Reading Scores by:  
+## Implications on of removing the ninth-grade Math and Reading Scores by:  
 
 ### Math & Reading Grade
 The removal of the Thomas 9th graders has an obvious effect on the outcome of the math and reading scores for the 9th grade tables specifically. Since all of the Thomas 9th graders received Nan scores for the time being, their math and reading average are effectively Nan as well, so they are unranked within the 9th grade classes at the fifteen schools. Since the academic investigation is limited to just the one class at Thomas HS, there is no change in the 10th, 11th and 12th grade classes and their respective scores and ranking. 
